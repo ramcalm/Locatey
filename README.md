@@ -2,16 +2,26 @@
 
 A new Flutter project.
 
-This project helps you to locate nearby free parking spaces nearby your current location for 
-people using the Google Places API and is also linked with Google Maps to get directions to 
-the respective Parking Space.
+This project helps you to locate ATMS, Banks, Hospitals, Theatres etc. nearby your current 
+location for people using the Google Places API and is also linked with Google Maps to get
+directions to the respective location.
 
 Changes to be Made while cloning:
 Add your Google Cloud API Key in:<br>
     android\app\src\main\AndroidManifest.xml<br>
     ios\Runner\AppDelegate.swift
+    lib\services\places_service.dart
     
-Replace "Your_API_Key" with your Google Cloud API Key
+Replace "Your_API_Key" with your Google Cloud API Key:
+<p align='center'>
+<img src="SS1.jpeg" title="hover text">
+</p>
+<p align='center'>
+<img src="SS2.jpeg" title="hover text">
+</p>
+<p align='center'>
+<img src="SS3.jpeg" title="hover text">
+</p>
 
 ## Getting Started
 
